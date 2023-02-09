@@ -44,7 +44,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 ## Références bibliographiques (2 à 10 références)
 
-1. 
+1. http://www.badminton-web.fr/equipement/volant.php
 2. 
 3. 
 4. 
