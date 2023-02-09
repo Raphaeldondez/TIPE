@@ -15,7 +15,7 @@ Le DOT peut être aussi l'occasion d'indiquer les éventuelles difficultés renc
 3. 
 4. 
 5. 
-6. 
+6.
 7. 
 8. 
 9. 
@@ -26,7 +26,7 @@ Le DOT peut être aussi l'occasion d'indiquer les éventuelles difficultés renc
 Notez **chaque semaine** ce que vous faites et la date correspondante.
 
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus.
--
+- Jeudi 9 février 2023 : recherche de sujet (trajectoire des volants de badminton).
 -
 -
 -
