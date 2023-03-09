@@ -27,6 +27,8 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus.
 - Jeudi 9 février 2023 : recherche de sujet (trajectoire des volants de badminton).
+- Jeudi 2 mars 2023 : recherche de sujet sur la théorie des jeux.
+- Jeudi 9 mars 2023 : idée de sujet (évolution de la trajectoire d'un javelot en fonction du réglement).
 -
 -
 -
