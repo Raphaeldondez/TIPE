@@ -30,7 +30,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 2 mars 2023 : recherche de sujet sur la théorie des jeux.
 - Jeudi 9 mars 2023 : idée de sujet (évolution de la trajectoire d'un javelot en fonction du réglement).
 -Jeudi  16 mars 2023 : recherche sur le lien entre le centre de gravité d'un javelot et sa trajectoire.
-- Jeudi 23 mars 20 23 début de recherche sur la physique du hockey (entretient de la glace, patinage, fléxibilité de la crosse).
+- Jeudi 23 mars 20 23 début de recherche sur la physique du hockey (entretient de la glace, patinage, fléxibilité de la crosse, protections).
 -
 -
 -
