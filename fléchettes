@@ -3,11 +3,13 @@ Comment prévoir l'imprévu dans un jeu ?
 EXemple du jeu de fléchette, indiquer la suite de coups la plus efficace compte tenu de la précision du lanceur.
 prendre en compte les aires 
 calculer les finishs
-                                                  
 
+https://www.physinfo.org/info.html
+                                                  
 Comparer: Stratégie, précision dans la réalité (toutes les valeurs ne sont pas finissables)
 Box-muller.
 
+https://docplayer.fr/71081894-L-esperance-du-jeu-de-flechettes.html
 
 -créer la cible avec les points en fonction du point d'impact
 -gausssiene des points d'impact en fonction du point visé 
