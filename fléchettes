@@ -9,3 +9,10 @@ Comparer: Stratégie, précision dans la réalité (toutes les valeurs ne sont p
 Box-muller.
 
 
+-créer la cible 
+-gausssiene des points d'impact en fonction du point visé 
+- on superpose  les deux  pour avoir l'éespérance
+
+
+-création des listes de coups permettants de finir x points
+- hiérarchisation des suites de coups en fonction de la difficultée.
