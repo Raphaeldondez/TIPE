@@ -9,7 +9,7 @@ Comparer: Stratégie, précision dans la réalité (toutes les valeurs ne sont p
 Box-muller.
 
 
--créer la cible 
+-créer la cible avec les points en fonction du point d'impact
 -gausssiene des points d'impact en fonction du point visé 
 - on superpose  les deux  pour avoir l'éespérance 
 -justification de la zone à visé pour un maximum de points en fonction de la précision (pro vs amateur)
