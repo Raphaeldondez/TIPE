@@ -11,8 +11,12 @@ Box-muller.
 
 -créer la cible 
 -gausssiene des points d'impact en fonction du point visé 
-- on superpose  les deux  pour avoir l'éespérance
+- on superpose  les deux  pour avoir l'éespérance 
+-justification de la zone à visé pour un maximum de points en fonction de la précision (pro vs amateur)
 
 
--création des listes de coups permettants de finir x points
-- hiérarchisation des suites de coups en fonction de la difficultée.
+-création des listes de coups permettants de finir x points  sous formes d'arbres
+- hiérarchisation des suites de coups en fonction de la difficultée   en pondérant les arbres.
+
+
+-on rassemble les deux parties de code pour conseiller un déroulé de partie.
