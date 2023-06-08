@@ -15,8 +15,11 @@ https://lyc-rostand-mantes.ac-versailles.fr/IMG/pdf/ch7_lois-proba_continues.pdf
 
 https://docplayer.fr/71081894-L-esperance-du-jeu-de-flechettes.html
 
+SDL: https://devopssec.fr/article/bases-fondamentales-de-laffichage-graphique-sdl2
+
+
 -représentation cible: repére polaire (7 cercles)
-                        biblihotéque SDL
+                        biblihotéque SDL en C
                         
 calculs: r(pythagore)
          teta ( formule trigo)
