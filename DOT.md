@@ -33,7 +33,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 23 mars 20 23 début de recherche sur la physique du hockey (entretient de la glace, patinage, fléxibilité de la crosse, protections).
 -
 -
--
+-Jeudi 8 Juin : recherche sur les modules graphiques et choix de la représentation de la cible en repére polaire.
 -
 -
 
