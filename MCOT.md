@@ -1,6 +1,7 @@
 # Titre
 
 ## Motivations pour le choix du sujet
+Je trouve que les fléchettes sont un jeu intéressant de part la stratégie et la gestion des erreurs.
 
 
 ## Ancrage du sujet au thème de l'année
