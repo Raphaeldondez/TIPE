@@ -9,7 +9,7 @@
 ## Positionnement thématique (par ordre de priorité décroissante)
 
 1. Probabilité  continue (gaussienne sur 2 dimensions)
-2.
+2. 
 3.
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
