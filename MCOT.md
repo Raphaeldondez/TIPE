@@ -37,9 +37,9 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 ## Objectifs du TIPE (max 100 mots)
 
-1.
-2.
-3.
+1. Calculer la zone remportant le plus de points aux fléchettes (par un calcul d'éspérance)
+2. Donner la meilleure suite de lancés pour finir la partie le plus vite possible (en prenant en compte les incertitudes)
+3. Comparer les par expériences avec la stratégie glouton
 
 
 ## Références bibliographiques (2 à 10 références)
