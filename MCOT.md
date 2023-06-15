@@ -8,7 +8,7 @@
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1.
+1. Probabilité  continue (gaussienne sur 2 dimensions)
 2.
 3.
 
