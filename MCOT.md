@@ -46,7 +46,8 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 ## Références bibliographiques (2 à 10 références)
 
 1. docplayer.fr/71081894-L-esperance-du-jeu-de-flechettes.html
-2. 
+2.  https://fr.wikipedia.org/wiki/Fonction_gaussienne
+https://lyc-rostand-mantes.ac-versailles.fr/IMG/pdf/ch7_lois-proba_continues.pdf
 3. 
 4. 
 5. 
