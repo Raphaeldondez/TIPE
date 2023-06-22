@@ -1,5 +1,53 @@
 (* En Ocaml*)
 
 (*DESSINE la cible*)
+open Graphics;;
+
+
+
+(* dessine la cible*)
+type polaire = float * float;;
+
+let pi= acos(-1.0) ;;
+  
+let rayons= [178; 170 ; 115 ; 107 ; 32 ; 13];;
+let colors= [red ; white ; green ; white ; green ; red]
+
+let rec dessine_cercle c_x c_y r colors = match r,colors with
+  |[],_-> set_color black
+  |_,[] -> fill_rect 0 0 1000 1000 
+  |a::q, c::q2-> set_color c;
+                 fill_circle c_x c_y a;
+                 dessine_cercle c_x c_y q q2;;
+
+
+(*let polaire_to_carthe (r,a: polaire) = (int_of_float(100.*.cos (float_of_int a)),int_of_float( 100.*.sin (float_of_int a)));;*)
+
+let rec dessine_droites (c_x: int) (c_y: int ) (a: float) =
+  if a>(2.*.pi) then ()
+  else draw_segments [|(c_x,c_y, c_x+int_of_float(178.*.cos(a)) , c_y+int_of_float( 178.*.sin( a )))|];
+  dessine_droites c_x c_y (a+.(pi/.10.));;
+
+
+let dessine_cible c_x c_y =
+  set_color black;
+  fill_rect 0 0 1000 1000;
+  dessine_cercle c_x c_y rayons colors;
+  dessine_droites c_x c_y (pi/.20.);;
+
+
+let main () =
+  open_graph "";
+  let (c_x,c_y) = (size_x()/2, size_y()/2) in
+  while true do
+    clear_graph ();
+    dessine_cible c_x c_y;
+  done;;
+
+
+let () = main ();;
+
+
+
 
 
