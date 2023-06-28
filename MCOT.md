@@ -48,7 +48,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 1. docplayer.fr/71081894-L-esperance-du-jeu-de-flechettes.html
 2.  https://fr.wikipedia.org/wiki/Fonction_gaussienne
 3. https://helios2.mi.parisdescartes.fr/~jdelon/enseignement/cogmaster/cogmaster_probas_continues.pdf
-4. 
+4. https://math.univ-lyon1.fr/irem/IMG/pdf/couples_agrint.pdf
 5. 
 6. 
 7. 
