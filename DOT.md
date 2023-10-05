@@ -35,5 +35,10 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 -
 -Jeudi 8 Juin : recherche sur les modules graphiques et choix de la représentation de la cible en repére polaire.
 -
--
+-Jeudi 28 Septembre: Changement de sujet( slapshot )
+-Jeudi 5 Octobre : Conact pris avec un club et Oroks(Décathlon)
+
+
+
+
 
