@@ -5,11 +5,11 @@ Je trouve que les fléchettes sont un jeu intéressant de part la stratégie et 
 
 
 ## Ancrage du sujet au thème de l'année
-Jeux de fléchettes
+Sport: Hockey sur Glace
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1. Probabilité  continue (gaussienne sur 2 dimensions)
+1. Mécanique 
 2. 
 3.
 
