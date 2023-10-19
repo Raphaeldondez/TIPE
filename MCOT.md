@@ -10,7 +10,7 @@ Sport: Hockey sur Glace
 ## Positionnement thématique (par ordre de priorité décroissante)
 
 1. Mécanique 
-2. 
+2. Modélisation
 3.
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
