@@ -26,7 +26,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 2. Module de Young
 3. Méthode des éléments finis
 4. coefficient de restitution
-5.
+5. 
 
 
 ## Bibliographie commentée (max 650 mots)
@@ -34,7 +34,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Problématique retenue (max 50 mots)
-
+Quel est le gain de vitesse procuré par la défomation de la crosse ?
 
 ## Objectifs du TIPE (max 100 mots)
 
