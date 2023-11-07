@@ -1,7 +1,7 @@
-# Titre
-
+# Titre 
+Etude du slapshot au hockey sur glace.
 ## Motivations pour le choix du sujet
-Je trouve que les fléchettes sont un jeu intéressant de part la stratégie et la gestion des erreurs.
+Je suis intéressé par le hockey sur glace depuis longtemps et le TIPE était une occasion d'étudier en profondeur un des technique fondamentale à ce sport. 
 
 
 ## Ancrage du sujet au thème de l'année
@@ -11,7 +11,7 @@ Sport: Hockey sur Glace
 
 1. Mécanique 
 2. Modélisation
-3.
+3. Etude des matériaux
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
 - Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
