@@ -22,10 +22,10 @@ Sport: Hockey sur Glace
 
 Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus significatifs de son travail**. Ils doivent être en **cohérence** avec la bibliographie, la problématique et les objectifs choisis par le candidat. Les mots-clés doivent être renseignés dans un ordre décroissant d'importance et permettre de bien cerner le périmètre des recherches.
 
-1. Module de Young 
-2. Méthode des éléments finis
-3.
-4.
+1. Energie potentielle élastique 
+2. Module de Young
+3. Méthode des éléments finis
+4. coefficient de restitution
 5.
 
 
