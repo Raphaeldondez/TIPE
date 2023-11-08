@@ -30,8 +30,8 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Bibliographie commentée (max 650 mots)
-
-
+Je me suis appuyé sur la thése de Brendan Troy Kays détaillant les caractéristique de la crosse et du palet mais aussi leurs intéractions et l'utilisation de l'énergie potentielle élastique.
+Le document de Rod Cross m'a fourni des protocoles expérimentaux que j'ai pu adapté à mon étude.
 
 ## Problématique retenue (max 50 mots)
 Quel est le gain de vitesse procuré par la défomation de la crosse ?
