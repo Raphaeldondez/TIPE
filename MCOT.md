@@ -47,8 +47,8 @@ Quel est le gain de vitesse procuré par la défomation de la crosse ?
 
 1. Ice Hokey wrist and slap shots: measurement and simulation by Brendan Troy Kays
 2. Numerical Simulation of the Ice Hockey Slap Shot by Brendan Kays and Lloyd Smith
-3.
-4. 
+3. Flex of a Hockey Stick by Rod Cross
+4. Mastering the Slapshot with Speed, Power, and Simulation  by Chase Coselman 
 5. 
 6. 
 7. 
