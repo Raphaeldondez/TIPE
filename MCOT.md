@@ -46,7 +46,7 @@ Quel est le gain de vitesse procuré par la défomation de la crosse ?
 ## Références bibliographiques (2 à 10 références)
 
 1. Ice Hokey wrist and slap shots: measurement and simulation by Brendan Troy Kays
-2.
+2. Numerical Simulation of the Ice Hockey Slap Shot by Brendan Kays and Lloyd Smith
 3.
 4. 
 5. 
