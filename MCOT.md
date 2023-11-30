@@ -33,14 +33,16 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 Je me suis appuyé sur la thése de Brendan Troy Kays détaillant les caractéristique de la crosse et du palet mais aussi leurs intéractions et l'utilisation de l'énergie potentielle élastique.
 Le document de Rod Cross m'a fourni des protocoles expérimentaux que j'ai pu adapté à mon étude.
 L'article de Chase Coselman m'a servi de modéle pour la simulation du tir.
+
+
 ## Problématique retenue (max 50 mots)
-On cherche à déterminer en quoi frapperl la glace avant le palet permet de tirer plus vite.
+On cherche à déterminer en quoi la rigidité de la crosse et du palet influe sur la vitesse du slapshot.
 
 ## Objectifs du TIPE (max 100 mots)
 
 1. Description du phénomène (slapshot)
 2. Etude énergétique (crosse et palet)
-3. Etude de l'influence de la crosse sur le lancé
+3. 
 
 
 ## Références bibliographiques (2 à 10 références)
