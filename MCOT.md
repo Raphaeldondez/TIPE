@@ -34,7 +34,7 @@ Je me suis appuyé sur la thése de Brendan Troy Kays détaillant les caractéri
 Le document de Rod Cross m'a fourni des protocoles expérimentaux que j'ai pu adapté à mon étude.
 L'article de Chase Coselman m'a servi de modéle pour la simulation du tir.
 ## Problématique retenue (max 50 mots)
-Quel est le gain de vitesse procuré par la défomation de la crosse ?
+On cherche à déterminer en quoi frapperl la glace avant le palet permet de tirer plus vite.
 
 ## Objectifs du TIPE (max 100 mots)
 
