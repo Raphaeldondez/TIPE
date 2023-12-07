@@ -26,7 +26,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 2. Module de Young
 3. Méthode des éléments finis
 4. coefficient de restitution
-5. 
+5. coefficient de poisson
 
 
 ## Bibliographie commentée (max 650 mots)
