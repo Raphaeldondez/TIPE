@@ -51,7 +51,12 @@ On cherche à déterminer en quoi la rigidité de la crosse et du palet influe s
 2. Numerical Simulation of the Ice Hockey Slap Shot de Brendan Kays and Lloyd Smith
 3. Flex of a Hockey Stick de Rod Cross
 4. Mastering the Slapshot with Speed, Power, and Simulation  de Chase Coselman 
-5. 
+5. 200
+Original research
+Journal of Applied Biomechanics, 2006; 22:200-209. © 2006 Human Kinetics, Inc.
+Recoil Effect of the Ice Hockey Stick During a Slap Shot
+A.Villaseñor, R.A. Turcotte, and D.J. Pearsall
+McGill University
 6. 
 7. 
 8. 
