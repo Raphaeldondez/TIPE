@@ -30,6 +30,9 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Bibliographie commentée (max 650 mots)
+
+
+
 Je me suis appuyé sur la thése de Brendan Troy Kays détaillant les caractéristique de la crosse et du palet mais aussi leurs intéractions et l'utilisation de l'énergie potentielle élastique.
 Le document de Rod Cross m'a fourni des protocoles expérimentaux que j'ai pu adapté à mon étude.
 L'article de Chase Coselman m'a servi de modéle pour la simulation du tir.
@@ -40,9 +43,9 @@ On cherche à déterminer en quoi la rigidité de la crosse et du palet influe s
 
 ## Objectifs du TIPE (max 100 mots)
 
-1. Description du phénomène (slapshot)
-2. Etude énergétique (crosse et palet)
-3. 
+1. Illustrer le gain de vitesse procuré par l'élasticité de la crosse.
+2. Comparer la vitesse ajoutée par une crosse en bois et une moderne en composite.
+3. Etablir un modéle numérique estimant le gain de vitesse procuré par la flexion de la crosse.
 
 
 ## Références bibliographiques (2 à 10 références)
