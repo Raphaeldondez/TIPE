@@ -44,8 +44,8 @@ On cherche à déterminer en quoi la rigidité de la crosse et du palet influe s
 ## Objectifs du TIPE (max 100 mots)
 
 1. Illustrer le gain de vitesse procuré par l'élasticité de la crosse.
-2. Comparer la vitesse ajoutée par une crosse en bois et une moderne en composite.
-3. Etablir un modéle numérique estimant le gain de vitesse procuré par la flexion de la crosse.
+2. Comprendre l'intéraction entre le palet et la crosse.
+3. Etablir un modéle simulant la déformation de la crosse lors de l'impact avec le palet.
 
 
 ## Références bibliographiques (2 à 10 références)
