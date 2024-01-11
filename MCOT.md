@@ -30,7 +30,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Bibliographie commentée (max 650 mots)
-Le slapshot est une technique de tir qui s'est imposée dans le hockey sur glace de part la puissance qu'elle génére. Elle consiste à frapper la glace avant le palet pour fléchir la crosse est enmagaziner de l'énergie potentiellle élastique sous  
+Le slapshot est une technique de tir qui s'est imposée dans le hockey sur glace de part la puissance qu'elle génére. Elle consiste à frapper la glace avant le palet pour fléchir la crosse est enmagaziner de l'énergie potentiellle élastique qui sera libérer pour accélérer le palet. 
 
 
 Je me suis appuyé sur la thése de Brendan Troy Kays détaillant les caractéristique de la crosse et du palet mais aussi leurs intéractions et l'utilisation de l'énergie potentielle élastique.
