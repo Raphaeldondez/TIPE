@@ -23,10 +23,10 @@ Sport: Hockey sur Glace
 Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus significatifs de son travail**. Ils doivent être en **cohérence** avec la bibliographie, la problématique et les objectifs choisis par le candidat. Les mots-clés doivent être renseignés dans un ordre décroissant d'importance et permettre de bien cerner le périmètre des recherches.
 
 1. Energie potentielle élastique 
-2. Module de Young
-3. Méthode des éléments finis
-4. coefficient de restitution
-5. coefficient de poisson
+2. Module de Young / Young modulus
+3. Méthode des éléments finis / finite elements methode
+4. coefficient de restitution / Coefficient of restitution
+5. coefficient de poisson / 
 
 
 ## Bibliographie commentée (max 650 mots)
@@ -44,7 +44,7 @@ On cherche à déterminer en quoi la rigidité de la crosse et du palet influe s
 ## Objectifs du TIPE (max 100 mots)
 
 1. Illustrer le gain de vitesse procuré par l'élasticité de la crosse.
-2. Comprendre l'intéraction entre le palet et la crosse.
+2. Etudier l'intéraction entre le palet et la crosse.
 3. Etablir un modéle simulant la déformation de la crosse lors de l'impact avec le palet.
 
 
