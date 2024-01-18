@@ -62,7 +62,8 @@ Recoil Effect of the Ice Hockey Stick During a Slap Shot
 A.Villaseñor, R.A. Turcotte, and D.J. Pearsall
 McGill University
 6. The Physics of Hockey, Alain Haché, 2002
-7. 
+7. Performance assessment of wood, metal and composite baseball bats
+Mahesh M. Shenoy, Lloyd V. Smith * , John T. Axtell
 8. 
 9. 
 10. 
