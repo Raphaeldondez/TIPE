@@ -61,7 +61,7 @@ Journal of Applied Biomechanics, 2006; 22:200-209. © 2006 Human Kinetics, Inc.
 Recoil Effect of the Ice Hockey Stick During a Slap Shot
 A.Villaseñor, R.A. Turcotte, and D.J. Pearsall
 McGill University
-6. 
+6. The Physics of Hockey, Alain Haché, 2002
 7. 
 8. 
 9. 
