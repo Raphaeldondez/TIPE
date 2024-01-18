@@ -64,7 +64,4 @@ McGill University
 6. The Physics of Hockey, Alain Haché, 2002
 7. Performance assessment of wood, metal and composite baseball bats
 Mahesh M. Shenoy, Lloyd V. Smith * , John T. Axtell
-8.Mastering the Slapshot with Speed, Power, and Simulation, avec le logiciel Altair
-9. 
-10. 
-
+8.Mastering the Slapshot with Speed, Power, and Simulation, avec le logiciel Altair.
