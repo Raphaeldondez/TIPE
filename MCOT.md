@@ -30,12 +30,13 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Bibliographie commentée (max 650 mots)
-Le slapshot est une technique de tir qui s'est imposée dans le hockey sur glace de part la puissance qu'elle génére. Elle consiste à frapper la glace avant le palet pour fléchir la crosse est enmagaziner de l'énergie potentiellle élastique qui sera libérer pour accélérer le palet. Il faut déja prendre en compte la façon dont l'énergie mécanique de la crosse est transmise au palet []. Ensuite il considérer l'énergie élastique emagaziné dans la crosse de par la flexion.  
 
-
-Je me suis appuyé sur la thése de Brendan Troy Kays détaillant les caractéristique de la crosse et du palet mais aussi leurs intéractions et l'utilisation de l'énergie potentielle élastique.
-Le document de Rod Cross m'a fourni des protocoles expérimentaux que j'ai pu adapté à mon étude.
-L'article de Chase Coselman m'a servi de modéle pour la simulation du tir.
+Utilisé dans les années 60 par Bobby HUlle, le slapshot est une technique de tir consistant à frapper violemment la glace afin de courber la crosse pour y stocker de l'énergie sous forme élastique puis de relâcher toute cette énergie dans le palet. Cette technique a beau limiter la précision, elle est largement utilisé de nos jour pour le gain de vitesse qu'elle procure.
+La notion de flex est primordiale dans cette étude, cette grandeur est mesurée en observant la déformation de la crosse lorsqu’on lui applique un poids au centre, cela est un indicateur de la rigidité, plus le flex est élevé, plus la crosse est rigide.
+On peut se demander si le flex de la crosse influe sur la vitesse d’un tir Même si Pearshall mets en avant en 1999 qu’avec des joueurs de top niveau des crosses plus rigide donneront un tir légèrement plus rapide, cela dépend grandement du joueur les fabricants prennent d’ailleurs en compte le gabarit(poids et taille) du joueur pour conseiller un flex. vu que en fonction de celle-ci les joueurs tiennent la crosse différemment cela dépend surtout de celui ci. 
+Le positionnement des mains sur la crosse est également très important, si la mains basse est positionné trop haute alors le tir sera moins puissant ce que Alain Haché explique dans son livre paru en 2002.
+Dans sa thèse, Brendan Troy Kays  fourni une étude détaillée de la manière dont l’énergie de la crosse accumule de l’énergie puis la transmet au palet (coefficient de restitution). C’est cette vision précise qui est nécessaire pour mettre en place un modèle.  Ce qu’il fera notamment en collaboration avec Lloyd-Smith. Pour ce faire, ils emploieront la méthode des éléments finis qui est toute indiquée pour modélisé la courbure que prends la crosse.
+Le transfert d’énergie entre la crosse(la palette plus précisement) et le palet peut être analysé par analogie avec le baseball où la documentation est assez fourni
 
 
 ## Problématique retenue (max 50 mots)
