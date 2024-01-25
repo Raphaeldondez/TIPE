@@ -26,7 +26,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 2. Module de Young / Young modulus
 3. Méthode des éléments finis / finite elements methode
 4. coefficient de restitution / Coefficient of restitution
-5. coefficient de poisson / 
+5. coefficient de poisson / Poisson's ratio
 
 
 ## Bibliographie commentée (max 650 mots)
